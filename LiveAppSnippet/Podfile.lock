@@ -1,0 +1,53 @@
+PODS:
+  - CocoaLumberjack/Core (3.8.5)
+  - CocoaLumberjack/Swift (3.8.5):
+    - CocoaLumberjack/Core
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - Kingfisher (8.1.1)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.7.1)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift
+  - IGListKit (~> 4.0.0)
+  - Kingfisher
+  - RxCocoa (~> 6.5.0)
+  - RxRelay (~> 6.5.0)
+  - RxSwift (~> 6.5.0)
+  - SnapKit
+  - YYText
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - IGListDiffKit
+    - IGListKit
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - YYText
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  Kingfisher: fc2788e497306f97fdef6e4df49f02106cb57788
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 818cd15df787498876cd9db178613bfaf9e0dacd
+
+COCOAPODS: 1.16.2
